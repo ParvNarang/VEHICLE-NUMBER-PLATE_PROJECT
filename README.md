@@ -1,8 +1,11 @@
 # VEHICLE-NUMBER-PLATE_PROJECT
+
 A program that allows automatic entry of vehicles in a building/society with proper authentication.
 
 # Objective
+
 The aim of this project was to make vehicles enter in a building/society automatically with proper authentication of the vehicle by using its Number Plate. The system checks the vehicle’s records whether or not it belongs to the society and lets it enter only if the number plate is recognised by the camera and that the number is located in the directory.
+
 Written in - Python
 
 Libraries Used - 
@@ -17,13 +20,13 @@ Now the current version of program uses an API Token(from https://platerecognize
 
 # Working
 
-The Launch Screen                      
+The Launch Screen                
                                                                                                  
 ![Screenshot 2021-01-12 at 1 03 26 AM](https://user-images.githubusercontent.com/56078295/104637078-4b33ca80-56ca-11eb-8701-c34fb584f747.png)
 
 When the ‘options’ button is clicked then it shows 5 options - 
 
-   ![Screenshot 2021-01-12 at 1 03 52 AM](https://user-images.githubusercontent.com/56078295/104637134-630b4e80-56ca-11eb-920d-b262a078bdbf.png)
+![Screenshot 2021-01-12 at 1 03 52 AM](https://user-images.githubusercontent.com/56078295/104637134-630b4e80-56ca-11eb-920d-b262a078bdbf.png)
    
 
 1.CAMERA.
@@ -60,10 +63,10 @@ It shows that it is present with “MH” as its state and the last 8 characters
 
 ![Screenshot 2021-01-12 at 12 59 59 AM](https://user-images.githubusercontent.com/56078295/104637533-edec4900-56ca-11eb-90bf-4f9b84f7d5ff.png)
 
-All the number plates recorded with timestamp
+All the number plates recorded with timestamp :-
 
 ![Screenshot 2021-01-12 at 1 04 40 AM](https://user-images.githubusercontent.com/56078295/104637636-14aa7f80-56cb-11eb-8e3b-d83ac3e9b28d.png)
 
-In the text file
+In the text file :-
 
 ![Screenshot 2021-01-12 at 1 05 50 AM](https://user-images.githubusercontent.com/56078295/104637744-3277e480-56cb-11eb-814b-7c61d9e37d56.png)
