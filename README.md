@@ -20,12 +20,13 @@ Now the current version of program uses an API Token(from https://platerecognize
                                                                                                  
                                                                                                  
                                                                                                  
-![Screenshot 2021-01-12 at 1 03 26 AM](https://user-images.githubusercontent.com/56078295/104637078-4b33ca80-56ca-11eb-8701-c34fb584f747.png
+![Screenshot 2021-01-12 at 1 03 26 AM](https://user-images.githubusercontent.com/56078295/104637078-4b33ca80-56ca-11eb-8701-c34fb584f747.png)
 
 When the ‘options’ button is clicked then it shows 5 options - 
 
 
    ![Screenshot 2021-01-12 at 1 03 52 AM](https://user-images.githubusercontent.com/56078295/104637134-630b4e80-56ca-11eb-920d-b262a078bdbf.png)
+   
 
 1.CAMERA.
 
