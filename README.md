@@ -16,15 +16,21 @@ Libraries Used -
 Now the current version of program uses an API Token(from https://platerecognizer.com/) that detects pretty well as compared to using the Pytesseract Library.
 
 # Working
-                                                      The Launch Screen
-   ![Screenshot 2021-01-12 at 1 03 26 AM](https://user-images.githubusercontent.com/56078295/104637078-4b33ca80-56ca-11eb-8701-c34fb584f747.png)
+                                                       The Launch Screen
+        ![Screenshot 2021-01-12 at 1 03 26 AM](https://user-images.githubusercontent.com/56078295/104637078-4b33ca80-56ca-11eb-8701-c34fb584f747.png)
 
-When the ‘options’ button is clicked then it shows 5 options - ![Screenshot 2021-01-12 at 1 03 52 AM](https://user-images.githubusercontent.com/56078295/104637134-630b4e80-56ca-11eb-920d-b262a078bdbf.png)
+When the ‘options’ button is clicked then it shows 5 options - 
+
+![Screenshot 2021-01-12 at 1 03 52 AM](https://user-images.githubusercontent.com/56078295/104637134-630b4e80-56ca-11eb-920d-b262a078bdbf.png)
 
 1.CAMERA.
+
 2.ALL NUMBER-PLATES TODAY.
+
 3.ALL NUMBER-PLATES WITH TIMESTAMP.
+
 4.AUTOMATIC.
+
 5.EXIT.
   
 - “Camera” option is used for manual checking of number plates.
@@ -46,6 +52,7 @@ After the scan is saved it stores the image, processes it and then checks for it
 ![Screenshot 2021-01-12 at 12 57 36 AM](https://user-images.githubusercontent.com/56078295/104637451-d0b77a80-56ca-11eb-96d7-bff3466a46c9.png)
 
 It shows that it is present with “MH” as its state and the last 8 characters. 
+
 “Press for details” option shows the details of the number plate that is stored in the text files - 
 
 ![Screenshot 2021-01-12 at 12 59 59 AM](https://user-images.githubusercontent.com/56078295/104637533-edec4900-56ca-11eb-90bf-4f9b84f7d5ff.png)
@@ -55,4 +62,5 @@ All the number plates recorded with timestamp
 ![Screenshot 2021-01-12 at 1 04 40 AM](https://user-images.githubusercontent.com/56078295/104637636-14aa7f80-56cb-11eb-8e3b-d83ac3e9b28d.png)
 
 In text file
+
 ![Screenshot 2021-01-12 at 1 05 50 AM](https://user-images.githubusercontent.com/56078295/104637744-3277e480-56cb-11eb-814b-7c61d9e37d56.png)
