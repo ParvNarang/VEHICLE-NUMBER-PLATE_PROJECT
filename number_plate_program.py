@@ -1,3 +1,5 @@
+''' DEVELOPED BY - Parv Narang '''
+
 import cv2
 import requests
 #from pprint import pprint
@@ -146,7 +148,6 @@ def animate():
         image.update_animation(g1, 100)
         pass
     window.close()
-
 
 
 def all():
