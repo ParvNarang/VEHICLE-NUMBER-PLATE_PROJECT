@@ -29,15 +29,15 @@ When the ‘options’ button is clicked then it shows 5 options -
 ![Screenshot 2021-01-12 at 1 03 52 AM](https://user-images.githubusercontent.com/56078295/104637134-630b4e80-56ca-11eb-920d-b262a078bdbf.png)
    
 
-1)CAMERA.
+1) CAMERA.
 
-2)ALL NUMBER-PLATES TODAY.
+2) ALL NUMBER-PLATES TODAY.
 
-3)ALL NUMBER-PLATES WITH TIMESTAMP.
+3) ALL NUMBER-PLATES WITH TIMESTAMP.
 
-4)AUTOMATIC.
+4) AUTOMATIC.
 
-5)EXIT.
+5) EXIT.
 
   - “Camera” option is used for manual checking of number plates.
 
