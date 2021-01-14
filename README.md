@@ -29,23 +29,23 @@ When the ‘options’ button is clicked then it shows 5 options -
 ![Screenshot 2021-01-12 at 1 03 52 AM](https://user-images.githubusercontent.com/56078295/104637134-630b4e80-56ca-11eb-920d-b262a078bdbf.png)
    
 
-1.CAMERA.
+1)CAMERA.
 
-2.ALL NUMBER-PLATES TODAY.
+2)ALL NUMBER-PLATES TODAY.
 
-3.ALL NUMBER-PLATES WITH TIMESTAMP.
+3)ALL NUMBER-PLATES WITH TIMESTAMP.
 
-4.AUTOMATIC.
+4)AUTOMATIC.
 
-5.EXIT.
+5)EXIT.
 
-- “Camera” option is used for manual checking of number plates.
+  - “Camera” option is used for manual checking of number plates.
 
-- “All number plates today” shows the number plates on that particular day only.
+  - “All number plates today” shows the number plates on that particular day only.
   
-- “All number plates with timestamp” show all the number plates till now with timestamp.
+  - “All number plates with timestamp” show all the number plates till now with timestamp.
   
-- “Automatic” option is used to automatically check the number plates entering the building.
+  - “Automatic” option is used to automatically check the number plates entering the building.
 
 As the CAMERA or AUTOMATIC option is clicked it opens the camera window it first detects the number plate using russian number plate haarcascade xml file and then clicks a photo and sends requests to recognise the number plate.
 
@@ -70,3 +70,7 @@ All the number plates recorded with timestamp :-
 In the text file :-
 
 ![Screenshot 2021-01-12 at 1 05 50 AM](https://user-images.githubusercontent.com/56078295/104637744-3277e480-56cb-11eb-814b-7c61d9e37d56.png)
+
+# FUTUREPLAN
+
+To use a web-camera with JETSON-NANO/RASPBERRY-PI 4
