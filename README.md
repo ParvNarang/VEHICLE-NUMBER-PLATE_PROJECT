@@ -17,11 +17,12 @@ Now the current version of program uses an API Token(from https://platerecognize
 
 # Working
                                                        The Launch Screen
-        ![Screenshot 2021-01-12 at 1 03 26 AM](https://user-images.githubusercontent.com/56078295/104637078-4b33ca80-56ca-11eb-8701-c34fb584f747.png)
+                                                       
+   ![Screenshot 2021-01-12 at 1 03 26 AM](https://user-images.githubusercontent.com/56078295/104637078-4b33ca80-56ca-11eb-8701-c34fb584f747.png)
 
 When the ‘options’ button is clicked then it shows 5 options - 
 
-![Screenshot 2021-01-12 at 1 03 52 AM](https://user-images.githubusercontent.com/56078295/104637134-630b4e80-56ca-11eb-920d-b262a078bdbf.png)
+   ![Screenshot 2021-01-12 at 1 03 52 AM](https://user-images.githubusercontent.com/56078295/104637134-630b4e80-56ca-11eb-920d-b262a078bdbf.png)
 
 1.CAMERA.
 
@@ -61,6 +62,6 @@ All the number plates recorded with timestamp
 
 ![Screenshot 2021-01-12 at 1 04 40 AM](https://user-images.githubusercontent.com/56078295/104637636-14aa7f80-56cb-11eb-8e3b-d83ac3e9b28d.png)
 
-In text file
+In the text file
 
 ![Screenshot 2021-01-12 at 1 05 50 AM](https://user-images.githubusercontent.com/56078295/104637744-3277e480-56cb-11eb-814b-7c61d9e37d56.png)
