@@ -16,7 +16,7 @@ Libraries Used -
   - Requests
   - PyTesseract (in the initial Version)
 
-Now the current version of program uses an API Token(from https://platerecognizer.com/) that detects pretty well as compared to using the Pytesseract Library.
+Now the current version of program uses an API Token(from https://platerecognizer.com/) that recognises the number-plates pretty well as compared to using the Pytesseract Library.
 
 # Working
 
