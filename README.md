@@ -8,7 +8,7 @@ The aim of this project was to make vehicles enter in a building/society automat
 
 Written in - Python
 
-Libraries Used - 
+Requirements 
   - OpenCV
   - SimpleGUI
   - DateTime
