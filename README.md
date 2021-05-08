@@ -15,6 +15,7 @@ Requirements
   - tqdm
   - Requests
   - PyTesseract (in the initial Version)
+  - Russian Number Plate xml file
 
 Now the current version of program uses an API Token(from https://platerecognizer.com/) that recognises the number-plates pretty well as compared to using the Pytesseract Library.
 
