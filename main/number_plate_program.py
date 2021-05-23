@@ -342,7 +342,7 @@ while True:
                         if event == "Back":
                             break
                         if event == "Camera":
-                            face_cascade = cv2.CascadeClassifier("/Users/parvnarang/Desktop/images/frontal_face.xml")
+                            face_cascade = cv2.CascadeClassifier("/Users/parvnarang/Desktop/haarcascades/frontal_face.xml")
 
                             cap = cv2.VideoCapture(0)
                             if not (cap.isOpened()):
