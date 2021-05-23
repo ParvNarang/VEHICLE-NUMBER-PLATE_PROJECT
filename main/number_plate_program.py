@@ -175,7 +175,7 @@ def g():
 
 while True:
     layout = [[sg.Text(" \n\t\t\t\t        N      U      M      B      E      R      P      L      A      T      E   \n\t\t\t\t\t                  A    P    P  ",background_color='navy',text_color='Dark Grey',font='Impact',key='-DISPLAY-',size= (175,5),justification='left')],
-              [sg.Text("\n\tThis our NUMPLATE Application for automatic recognition of number plates and reading its specific information.")],
+              [sg.Text("\n\tThis is our NUMPLATE Application for automatic recognition of number plates and reading its specific information.")],
               [sg.Text("\n\tA vehicle registration plate, also known as a number plate (British English) or license plate (American English),")],
               [sg.Text("\n\tis a metal or plastic plate attached to a motor vehicle or trailer for official identification purposes.")],
               [sg.Text("\n\tIndian number plates come in five different colour combinations. Plates for private vehicles have black lettering,")],
